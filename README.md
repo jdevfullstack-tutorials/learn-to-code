@@ -38,8 +38,8 @@ I was doing was just listening to them! And by that, I learned things.
 There was this general course in computer and one lesson was about MS Excel,
 how to create simple formulas (particularly the IF formula). 
 When I saw the demonstration of the instructor,
-my mind wandered to things a computer can do! And I promised to myself, I would create
-one someday.
+my mind wandered to things a computer can do! 
+And I promised to myself, I would create one someday.
 
 And that was really accomplished years later when I was working as a teacher.
 
