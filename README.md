@@ -25,10 +25,9 @@ Just imagine a totally noob.
 Then, I was provided by my mother a new laptop, an HP Pavilion netbook.
 I explored everything. And the first time I was able to connect 
 to the Internet and load a page, I was so amazed! But, it did not stay
-that way. My mother could not continue paying the installment of
-that netbook and I just went from time to time in several computer
-shops just to accomplish things. So, I was exposed to several versions
-of the Windows OS.
+that way. My mother could not continue paying the installment
+and I ended up in computer shops. 
+So, I was exposed to several versions of the Windows OS.
 
 Yet, during this time, I still had not learn anything about
 computer programming.
