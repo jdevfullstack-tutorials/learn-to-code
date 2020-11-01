@@ -1,5 +1,5 @@
 # How To Learn To Code
-I just want to share my journey on how I learned to code.
+I just want to share my journey how I learned to code.
 Others did the same thing, but every story is unique.
 
 ## Interest In Video Games
