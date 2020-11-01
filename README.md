@@ -70,3 +70,15 @@ exactly the things we want the computer to do for us. But it comes with a price.
 The computer can only understand the machine language but making pure
 machine language for the programmer is a very cumbersome task.
 
+Hence, the computer and the programmer must meet halfway, that's is where
+computer programming languages comes in. Assembly Language was next to Machine Language,
+it is really good and even today, there are certain programs that should be written in Assembly.
+But, just like the Machine Language, it's very cumbersome even for simple commands. So,
+you as the programmer is quite limited by this.
+
+Next to that, we have several programming languages that is expressed not as symbols but
+much like a human language and one of the most significant is the C language. During
+this time, the things we wanted to achieve were ambitious, so they never stop finding ways
+and C was even upgraded and we already have C++ for games, apps. 
+
+
