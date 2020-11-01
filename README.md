@@ -50,3 +50,10 @@ PureBasic. Prior to this, I successfully created an MS Excel program, a flat
 file database. It was really a good project that no one attempted or even
 realized to solve a particular problem.
 
+If you are really determined to learn new things, then you will definitely learn that.
+That's the most important one.
+
+But it was a rough start. I could not even understand the things in PureBasic tutorial!
+Even if I already had some knowledge about formulas in MS Excel, that was really
+tough! As if you read things without comprehension! But never give up!
+
