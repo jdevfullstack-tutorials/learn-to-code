@@ -94,8 +94,9 @@ But, just like the Machine Language, it's very cumbersome
 even for simple commands. So,
 you as the programmer is quite limited by this.
 
-Next to that, we have several programming languages that is expressed not as symbols but
-much like a human language and one of the most significant is the C language. During
+Next to that, we have several programming languages that are 
+expressed not as symbols but much like a human language and one of
+the most significant is the C language. During
 this time, the things humans wanted to achieve were ambitious, 
 so they (the programmers) never stopped finding ways
 and C was even upgraded to be used as the tool for creating Desktop apps and games, 
