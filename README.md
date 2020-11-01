@@ -62,3 +62,6 @@ tough! As if you read things without comprehension!
 
 But remember, if you are really that determined you should never give up!
 
+After that, I recommend understanding these things 
+<https://github.com/xdvrx1/prerequisites-of-computer-programming>
+
