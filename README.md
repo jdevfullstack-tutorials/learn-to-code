@@ -1,5 +1,5 @@
 # How To Learn To Code
-I just want to share my own journey on how I learned to code.
+I just want to share my journey on how I learned to code.
 Others did the same thing, but every story is unique.
 
 ## Interest In Video Games
@@ -63,8 +63,8 @@ tough! As if you read things without comprehension!
 
 But remember, if you are really that determined you should never give up!
 
-After that, I recommend understanding these things 
-<https://github.com/xdvrx1/prerequisites-of-computer-programming>.
+After that, I recommend understanding these things:  
+<https://github.com/xdvrx1/prerequisites-of-computer-programming>
 
 During those times, when I was working in a big company, my companion
 was just this computer. So, I had the chance to explore everything.
