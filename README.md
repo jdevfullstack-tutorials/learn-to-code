@@ -30,6 +30,9 @@ that netbook and I just went from time to time in several computer
 shops just to accomplish things. So, I was exposed to several versions
 of the Windows OS.
 
+Yet, during this time, I still had not learn anything about
+computer programming.
+
 ## My Course Was Not Even Related To Computer
 My college course was not IT-related or even Com Scie! But,
 during those times, there were several others who were really interested
@@ -62,7 +65,8 @@ That's the most important one.
 But it was a rough start. I could not even understand the 
 things in PureBasic tutorial!
 Even if I already had some knowledge about formulas in MS Excel, that was really
-tough! As if you read things without comprehension!
+tough! As if you read things without comprehension! Imagine the 
+frustration!
 
 But remember, if you are really that determined you should never give up!
 
