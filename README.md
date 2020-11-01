@@ -4,8 +4,9 @@ Others did the same thing, but every story is unique.
 
 ## Interest In Video Games
 I was not really exposed to computers when I was a child but
-I was exposed and addicted to PlayStation games 
-and Mortal Kombat, just to name a few. 
+I was exposed and became addicted to PlayStation games 
+and Mortal Kombat, just to name a few. I even cut classes
+just to play video games.
 
 And since I
 did not have any idea that these things were just being
