@@ -85,6 +85,6 @@ that was C++.
 Yet, we did not stay that way. We wanted more. The birth of the Web demanded another tool
 that would be good in computer networking and creating web pages. Java simply had that 
 opportunity. It became the current programming language during that time and scripting languages
-like PHP (for backend) and JavaScript (for frontend) were emerging to output a web page .
+like PHP (for backend) and JavaScript (for frontend) were emerging to output a web page.
 
 
