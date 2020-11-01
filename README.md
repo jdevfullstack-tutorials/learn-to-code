@@ -29,7 +29,7 @@ that way. My mother could not continue paying the installment
 and I ended up in computer shops. 
 So, I was exposed to several versions of the Windows OS.
 
-Yet, during this time, I still had not learn anything about
+Yet, during this time, I still had not learned anything about
 computer programming.
 
 ## My Course Was Not Even Related To Computer
@@ -62,7 +62,7 @@ If you are really determined to learn new things, then you will definitely learn
 That's the most important one.
 
 But it was a rough start. I could not even understand the 
-things in PureBasic tutorial!
+things in the PureBasic tutorial!
 Even if I already had some knowledge about formulas in MS Excel, that was really
 tough! As if you read things without comprehension! Imagine the 
 frustration!
@@ -71,8 +71,7 @@ But remember, if you are really that determined you should never give up!
 
 And during those times, when I was working in a big company, my companion
 was just this computer. So, I had the chance to 
-focus and explore everything.
-And that was pretty much it.
+focus and explore everything. And that was pretty much it.
 
 Also, I recommend understanding these things:  
 
@@ -88,7 +87,7 @@ The computer can only understand the machine language but using pure
 machine language for the programmer is a very cumbersome task.
 
 Hence, the computer and the programmer must meet halfway, that is where
-computer programming languages comes in. An assembly language was next 
+a computer programming language comes in. An assembly language was next 
 to Machine Language, it is really good and even today, there are certain 
 programs that should be written in assembly.
 But, just like the Machine Language, it's very cumbersome 
@@ -98,7 +97,7 @@ you as the programmer is quite limited by this.
 Next to that, we have several programming languages that is expressed not as symbols but
 much like a human language and one of the most significant is the C language. During
 this time, the things humans wanted to achieve were ambitious, 
-so they (the programmers) never stop finding ways
+so they (the programmers) never stopped finding ways
 and C was even upgraded to be used as the tool for creating Desktop apps and games, 
 it became known as the C++.
 
@@ -118,4 +117,4 @@ Software development is becoming more and more automatic!
 
 But, in reality, the current trend is towards machine learning, where a certain program
 learns by itself, without directly coding it to behave that way. This will have
-another significant impact in the history of the humankind.
+another significant impact in the history of humankind.
