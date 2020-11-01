@@ -6,7 +6,7 @@ Others did the same thing, but every story is unique.
 I was not really exposed to computers when I was a child but
 I was exposed and became addicted to PlayStation games 
 and Mortal Kombat, just to name a few. I even cut classes
-just to play video games.
+just to play video games when I was in high school.
 
 And since I
 did not have any idea that these things were just being
