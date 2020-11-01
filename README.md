@@ -97,8 +97,9 @@ you as the programmer is quite limited by this.
 
 Next to that, we have several programming languages that is expressed not as symbols but
 much like a human language and one of the most significant is the C language. During
-this time, the things we wanted to achieve were ambitious, so they never stop finding ways
-and C was even upgraded to be used as the tool creating Desktop apps and games, 
+this time, the things humans wanted to achieve were ambitious, 
+so they (the programmers) never stop finding ways
+and C was even upgraded to be used as the tool for creating Desktop apps and games, 
 it became known as the C++.
 
 Yet, we did not stay that way. We wanted more. The birth of the Web demanded another tool
@@ -112,8 +113,9 @@ that is something dynamic, not simply a static web page.
 Then, we could simply stay this way, yet we wanted more. Nowadays, creating web pages,
 even dynamic ones were simplified by several frameworks and 
 ready-made projects that sometimes
-you don't even need to write a single line of code! Software development
-is becoming more and more automatic!
+a programmer does not even need to write a single line of code!
+Software development is becoming more and more automatic!
 
 But, in reality, the current trend is towards machine learning, where a certain program
-learns by itself, without directly coding it to behave that way!
+learns by itself, without directly coding it to behave that way. This will have
+another significant impact in the history of the humankind.
