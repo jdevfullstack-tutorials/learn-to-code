@@ -55,5 +55,7 @@ That's the most important one.
 
 But it was a rough start. I could not even understand the things in PureBasic tutorial!
 Even if I already had some knowledge about formulas in MS Excel, that was really
-tough! As if you read things without comprehension! But never give up!
+tough! As if you read things without comprehension!
+
+But remember, if you are really that determined you should never give up!
 
