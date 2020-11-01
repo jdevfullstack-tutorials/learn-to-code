@@ -3,7 +3,7 @@ I just want to share my journey how I learned to code.
 Others did the same thing, but every story is unique.
 
 ## Interest In Video Games
-I was not really exposed to computers when I was a child but
+I was not really exposed to computers when I was young but
 I was exposed and became addicted to PlayStation games 
 and Mortal Kombat, just to name a few. I even cut classes
 just to play video games when I was in high school.
