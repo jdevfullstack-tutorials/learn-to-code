@@ -113,4 +113,4 @@ you don't even need to write a single line of code! Software development
 is becoming more and more automatic!
 
 But, in reality, the current trend is towards machine learning, where a certain program
-learns by itself without directly coding it to behave that way!
+learns by itself, without directly coding it to behave that way!
