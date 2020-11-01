@@ -42,7 +42,7 @@ I was doing was just listening to them! And by that, I learned things.
 
 ## Coding Exposure
 There was this general course in computer and one lesson was about MS Excel,
-how to create simple formulas (particularly the IF formula). 
+how to use the IF function. 
 When I saw the demonstration of the instructor,
 my mind wandered to things a computer can do! 
 And I promised to myself, I would create one someday.
