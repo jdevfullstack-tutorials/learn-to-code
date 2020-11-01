@@ -87,7 +87,7 @@ that would be good in computer networking and creating web pages. Java simply ha
 opportunity. It became the current programming language during that time and scripting languages
 like PHP (for backend) and JavaScript (for frontend) were emerging to output a web page.
 
-Then, we can simply stay this way, yet we wanted more. Nowadays, creating web pages,
+Then, we could simply stay this way, yet we wanted more. Nowadays, creating web pages,
 even dynamic ones were simplified by several frameworks and ready-made projects that sometimes
 you don't even need to write a single line of code! Software development
 is becoming more and more automatic!
