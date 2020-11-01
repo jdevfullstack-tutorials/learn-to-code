@@ -87,9 +87,9 @@ The computer can only understand the machine language but using pure
 machine language for the programmer is a very cumbersome task.
 
 Hence, the computer and the programmer must meet halfway, that is where
-computer programming languages comes in. Assembly Language was next 
+computer programming languages comes in. An assembly language was next 
 to Machine Language, it is really good and even today, there are certain 
-programs that should be written in Assembly.
+programs that should be written in assembly.
 But, just like the Machine Language, it's very cumbersome 
 even for simple commands. So,
 you as the programmer is quite limited by this.
@@ -98,7 +98,7 @@ Next to that, we have several programming languages that is expressed not as sym
 much like a human language and one of the most significant is the C language. During
 this time, the things we wanted to achieve were ambitious, so they never stop finding ways
 and C was even upgraded to be used as the tool creating Desktop apps and games, 
-that was C++.
+it became known as the C++.
 
 Yet, we did not stay that way. We wanted more. The birth of the Web demanded another tool
 that would be good in computer networking and creating web pages. Java simply had that 
