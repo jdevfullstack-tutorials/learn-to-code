@@ -70,12 +70,16 @@ frustration!
 
 But remember, if you are really that determined you should never give up!
 
-After that, I recommend understanding these things:  
-<https://github.com/xdvrx1/prerequisites-of-computer-programming>
-
-During those times, when I was working in a big company, my companion
+And during those times, when I was working in a big company, my companion
 was just this computer. So, I had the chance to explore everything.
 And that was pretty much it.
+
+Also, I recommend understanding these things:  
+
+<https://github.com/xdvrx1/prerequisites-of-computer-programming>
+
+these topics will further solidify your understanding about
+computer and software development.
 
 ## The Truth About Programming
 The reason why we do computer programming is to instruct the computer
