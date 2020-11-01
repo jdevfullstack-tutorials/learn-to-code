@@ -18,7 +18,7 @@ And to my surprise, that was false.
 ## My First Computer Exposure
 I was only exposed to computers when I was in college! Imagine!
 And it was actually required for our courses. At first I was
-so afraid, because that's a new thing to be learned and
+so afraid, because that was a new thing to be learned and
 my Facebook account was even made by my friend.
 
 Then, I was provided by my mother a new laptop, an HP Pavilion netbook.
