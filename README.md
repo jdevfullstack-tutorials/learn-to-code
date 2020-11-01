@@ -35,7 +35,8 @@ computer programming.
 ## My Course Was Not Even Related To Computer
 My college course was not IT-related or even Com Scie! But,
 during those times, there were several others who were really interested
-in computers, like installation, hardware setup and aspiring software
+in computers, like cracking an installation, 
+hardware setup and aspiring software
 developers who wanted to take that course in another university. And all
 I was doing was just listening to them! And by that, I learned things.
 
