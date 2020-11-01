@@ -10,8 +10,9 @@ just to play video games.
 
 And since I
 did not have any idea that these things were just being
-developed, I just said to myself, computers are really great
-for they (the computers alone) can create a bunch of great games.
+developed by a programmer, I just said to myself, 
+computers are really great for they (the computers alone) 
+can create a bunch of great games.
 And to my surprise, that was false.
 
 ## My First Computer Exposure
