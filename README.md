@@ -63,5 +63,10 @@ tough! As if you read things without comprehension!
 But remember, if you are really that determined you should never give up!
 
 After that, I recommend understanding these things 
-<https://github.com/xdvrx1/prerequisites-of-computer-programming>
+<https://github.com/xdvrx1/prerequisites-of-computer-programming>.
+
+The reason why we do computer programming is to instruct the computer
+exactly the things we want the computer to do for us. But it comes with a price.
+The computer can only understand the machine language but making pure
+machine language for the programmer is a very cumbersome task.
 
