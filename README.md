@@ -21,7 +21,8 @@ I explored everything. And the first time I was able to connect
 to the Internet and load a page, I was so amazed! But, it did not stay
 that way. My mother could not continue paying the installment of
 that netbook and I just went from time to time in several computer
-shops just to accomplish things.
+shops just to accomplish things. So, I was exposed to several versions
+of the Windows OS.
 
 ## My Course Was Not Even Related To Computers
 My college course was not IT-related or even Com Scie! But,
