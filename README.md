@@ -70,7 +70,8 @@ frustration!
 But remember, if you are really that determined you should never give up!
 
 And during those times, when I was working in a big company, my companion
-was just this computer. So, I had the chance to explore everything.
+was just this computer. So, I had the chance to 
+focus and explore everything.
 And that was pretty much it.
 
 Also, I recommend understanding these things:  
