@@ -83,7 +83,7 @@ computer and software development.
 
 ## The Truth About Programming
 The reason why we do computer programming is to instruct the computer
-exactly the things we want the computer to do for us. But it comes with a price.
+to do something for us. But it comes with a price.
 The computer can only understand the machine language but using pure
 machine language for the programmer is a very cumbersome task.
 
@@ -105,7 +105,9 @@ Yet, we did not stay that way. We wanted more. The birth of the Web demanded ano
 that would be good in computer networking and creating web pages. Java simply had that 
 opportunity. It became the current programming language 
 during that time and scripting languages like PHP (for backend) and 
-JavaScript (for frontend) were emerging to output a web page.
+JavaScript (for frontend) were emerging.
+It was because of the need to output a web page 
+that is something dynamic, not simply a static web page.
 
 Then, we could simply stay this way, yet we wanted more. Nowadays, creating web pages,
 even dynamic ones were simplified by several frameworks and 
