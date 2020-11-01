@@ -24,7 +24,7 @@ that netbook and I just went from time to time in several computer
 shops just to accomplish things. So, I was exposed to several versions
 of the Windows OS.
 
-## My Course Was Not Even Related To Computers
+## My Course Was Not Even Related To Computer
 My college course was not IT-related or even Com Scie! But,
 during those times, there were several others who were really interested
 in computers, like installation, hardware setup and aspiring software
