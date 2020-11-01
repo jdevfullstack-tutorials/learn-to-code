@@ -72,7 +72,7 @@ And that was pretty much it.
 ## The Truth About Programming
 The reason why we do computer programming is to instruct the computer
 exactly the things we want the computer to do for us. But it comes with a price.
-The computer can only understand the machine language but making pure
+The computer can only understand the machine language but using pure
 machine language for the programmer is a very cumbersome task.
 
 Hence, the computer and the programmer must meet halfway, that's is where
