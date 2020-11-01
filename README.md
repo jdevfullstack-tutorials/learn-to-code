@@ -75,7 +75,7 @@ exactly the things we want the computer to do for us. But it comes with a price.
 The computer can only understand the machine language but using pure
 machine language for the programmer is a very cumbersome task.
 
-Hence, the computer and the programmer must meet halfway, that's is where
+Hence, the computer and the programmer must meet halfway, that is where
 computer programming languages comes in. Assembly Language was next to Machine Language,
 it is really good and even today, there are certain programs that should be written in Assembly.
 But, just like the Machine Language, it's very cumbersome even for simple commands. So,
