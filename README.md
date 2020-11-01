@@ -19,7 +19,8 @@ And to my surprise, that was false.
 I was only exposed to computers when I was in college! Imagine!
 And it was actually required for our courses. At first I was
 so afraid, because that was a new thing to be learned and
-my Facebook account was even made by my friend.
+my Facebook account was even created by my friend.
+Just imagine a totally noob.
 
 Then, I was provided by my mother a new laptop, an HP Pavilion netbook.
 I explored everything. And the first time I was able to connect 
