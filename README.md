@@ -56,7 +56,8 @@ realized to solve a particular problem.
 If you are really determined to learn new things, then you will definitely learn that.
 That's the most important one.
 
-But it was a rough start. I could not even understand the things in PureBasic tutorial!
+But it was a rough start. I could not even understand the 
+things in PureBasic tutorial!
 Even if I already had some knowledge about formulas in MS Excel, that was really
 tough! As if you read things without comprehension!
 
@@ -76,9 +77,11 @@ The computer can only understand the machine language but using pure
 machine language for the programmer is a very cumbersome task.
 
 Hence, the computer and the programmer must meet halfway, that is where
-computer programming languages comes in. Assembly Language was next to Machine Language,
-it is really good and even today, there are certain programs that should be written in Assembly.
-But, just like the Machine Language, it's very cumbersome even for simple commands. So,
+computer programming languages comes in. Assembly Language was next 
+to Machine Language, it is really good and even today, there are certain 
+programs that should be written in Assembly.
+But, just like the Machine Language, it's very cumbersome 
+even for simple commands. So,
 you as the programmer is quite limited by this.
 
 Next to that, we have several programming languages that is expressed not as symbols but
@@ -89,11 +92,13 @@ that was C++.
 
 Yet, we did not stay that way. We wanted more. The birth of the Web demanded another tool
 that would be good in computer networking and creating web pages. Java simply had that 
-opportunity. It became the current programming language during that time and scripting languages
-like PHP (for backend) and JavaScript (for frontend) were emerging to output a web page.
+opportunity. It became the current programming language 
+during that time and scripting languages like PHP (for backend) and 
+JavaScript (for frontend) were emerging to output a web page.
 
 Then, we could simply stay this way, yet we wanted more. Nowadays, creating web pages,
-even dynamic ones were simplified by several frameworks and ready-made projects that sometimes
+even dynamic ones were simplified by several frameworks and 
+ready-made projects that sometimes
 you don't even need to write a single line of code! Software development
 is becoming more and more automatic!
 
