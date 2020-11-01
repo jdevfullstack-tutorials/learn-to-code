@@ -4,7 +4,7 @@ Others did the same thing, but every story is unique.
 
 ## Interest In Video Games
 I was not really exposed to computers when I was a child but
-I was exposed to playstations and video games. And since I
+I was exposed to PlayStation and video games. And since I
 do not have any idea that these things were just being
 develop, I just said to myself, computers are really great
 for they (the computers alone) can create a bunch of great games.
@@ -32,10 +32,21 @@ developers who wanted to take that course in another university. And all
 I was doing was just listening to them! And by that, I learned things.
 
 ## Coding Exposure
-There was this general course in computer and one lesson was about Excel,
-how to create simple formulas. When I saw the demonstration of the instructor,
-my mind wander to things a computer can do! And I promised to myself, I would create
+There was this general course in computer and one lesson was about MS Excel,
+how to create simple formulas (particularly the IF formula). 
+When I saw the demonstration of the instructor,
+my mind wandered to things a computer can do! And I promised to myself, I would create
 one someday.
 
 And that was really accomplished years later when I was working as a teacher.
+
+## How I Taught Myself To Code
+Even for the other skills, like playing a guitar, I taught myself just by
+watching online tutorials. So, that's not really teaching yourself a new skill
+from scratch, it's teaching yourself how to learn.
+
+In the case of computer programming, I started learning
+PureBasic. Prior to this, I successfully created an MS Excel program, a flat
+file database. It was really a good project that no one attempted or even
+realized to solve a particular problem.
 
