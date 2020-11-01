@@ -62,7 +62,8 @@ If you are really determined to learn new things, then you will definitely learn
 That's the most important one.
 
 But it was a rough start. I could not even understand the 
-things in the PureBasic tutorial!
+things in the 
+[PureBasic tutorial](https://github.com/xdvrx1/purebasic-a-beginners-guide)!
 Even if I already had some knowledge about formulas in MS Excel, that was really
 tough! As if you read things without comprehension! Imagine the 
 frustration!
