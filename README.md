@@ -30,5 +30,11 @@ in computers, like installation, hardware setup and aspiring software
 developers who wanted to take that course in another university. And all
 I was doing was just listening to them! And by that, I learned things.
 
+## Coding Exposure
+There was this general course in computer and one lesson was about Excel,
+how to create simple formulas. When I saw the demonstration of the instructor,
+my mind wander to things a computer can do! And I promised to myself, I would create
+one someday.
 
+And that was really accomplished years later when I was working as a teacher.
 
