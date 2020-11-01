@@ -4,7 +4,10 @@ Others did the same thing, but every story is unique.
 
 ## Interest In Video Games
 I was not really exposed to computers when I was a child but
-I was exposed to PlayStation and video games. And since I
+I was exposed and addicted to PlayStation games 
+and Mortal Kombat, just to name a few. 
+
+And since I
 do not have any idea that these things were just being
 developed, I just said to myself, computers are really great
 for they (the computers alone) can create a bunch of great games.
