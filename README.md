@@ -8,7 +8,7 @@ I was exposed and addicted to PlayStation games
 and Mortal Kombat, just to name a few. 
 
 And since I
-do not have any idea that these things were just being
+did not have any idea that these things were just being
 developed, I just said to myself, computers are really great
 for they (the computers alone) can create a bunch of great games.
 And to my surprise, that was false.
