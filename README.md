@@ -83,11 +83,13 @@ these topics will further solidify your understanding about
 computer and software development.
 
 ***
+
 > To sum it up:
 > 1. Determination (no surrender)
 > 2. Focus
 > 3. Explore (yeah, that's the way to learn computer programming)
 > 4. Fundamental Understanding About Computers (link provided)
+
 ***
 
 
