@@ -90,6 +90,7 @@ computer and software development.
 > 4. Fundamental Understanding About Computers (link provided)
 ***
 
+
 ## The Truth About Programming
 The reason why we do computer programming is to instruct the computer
 to do something for us. But it comes with a price.
