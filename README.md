@@ -144,4 +144,8 @@ front-end, back-end of full-stack.
 So, I recommend you learn these things, 
 1. PHP (for server side)
 2. JavaScript (for client side)
+3. Java
+
+Java is actually very comprehensive unlike PHP or JavaScript, it
+can even be used for a complete network programming.
 
