@@ -149,3 +149,11 @@ So, I recommend you learn these things,
 Java is actually very comprehensive unlike PHP or JavaScript, it
 can even be used for a complete network programming.
 
+Now, after learning these core languages, your company will always
+ask whether you can use a framework. Frameworks will enable you to
+develop a web app instantly, you don't need to code everything.
+
+For a good startup, Laravel framework is very easy to learn, 
+provided you know PHP.
+
+
