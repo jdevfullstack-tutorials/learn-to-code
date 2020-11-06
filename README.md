@@ -147,7 +147,8 @@ So, I recommend you learn these things,
 3. Java
 
 Java is actually very comprehensive unlike PHP or JavaScript, it
-can even be used for a complete network programming.
+can even be used for a complete network programming. You may
+want to check out my Java projects also: <https://github.com/xdvrx1/java>
 
 Now, after learning these core languages, your company will always
 ask whether you can use a framework. Frameworks will enable you to
@@ -159,5 +160,14 @@ provided you know PHP.
 For Java, it's the Spring and Spring Boot frameworks. 
 Spring Boot further simplifies everything from the Spring
 Framework.
+
+For a native app which does not require much web connection,
+I highly recommend PureBasic. It's very simple and basic.
+Check out my PureBasic projects: <https://github.com/xdvrx1/PureBasic>
+
+For system programming, of course, still nothing can beat
+the C language.
+Check out my C language tutorial: <https://github.com/xdvrx1/C-Language-Tutorial>
+
 
 
