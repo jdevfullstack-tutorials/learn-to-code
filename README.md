@@ -134,3 +134,40 @@ Software development is becoming more and more automatic!
 But, in reality, the current trend is towards machine learning, where a certain program
 learns by itself, without directly coding it to behave that way. This will have
 another significant impact in the history of humankind.
+
+## Programming Languages in 2020
+It's actually not appropriate to say one programming language is
+better than the other. But, we just want to mention this,
+at least you have an idea.
+Nowadays, the demand is actually high for web development, either
+front-end, back-end of full-stack.
+So, I recommend you learn these things, 
+1. PHP (for server side)
+2. JavaScript (for client side)
+3. Java
+
+Java is actually very comprehensive unlike PHP or JavaScript, it
+can even be used for a complete network programming. You may
+want to check out my Java projects also: <https://github.com/xdvrx1/java>
+
+Now, after learning these core languages, your company will always
+ask whether you can use a framework. Frameworks will enable you to
+develop a web app instantly, you don't need to code everything.
+
+For a good startup, Laravel framework is very easy to learn, 
+provided you know PHP.
+
+For Java, it's the Spring and Spring Boot frameworks. 
+Spring Boot further simplifies everything from the Spring
+Framework.
+
+For a native app which does not require much web connection,
+I highly recommend PureBasic. It's very simple and basic.
+Check out my PureBasic projects: <https://github.com/xdvrx1/PureBasic>
+
+For system programming, of course, still nothing can beat
+the C language.
+Check out my C language tutorial: <https://github.com/xdvrx1/C-Language-Tutorial>
+
+
+
