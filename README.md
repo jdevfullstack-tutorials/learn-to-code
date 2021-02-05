@@ -143,7 +143,7 @@ Nowadays, the demand is actually high for web development, either
 front-end, back-end of full-stack.
 So, I recommend you learn these things,
 
-### 
+### My Pick
 1. PHP (for server side)
 2. JavaScript (for client side)
 3. Java
