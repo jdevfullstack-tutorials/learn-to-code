@@ -142,9 +142,9 @@ at least you have an idea.
 Nowadays, the demand is actually high for web development, either
 front-end, back-end of full-stack.
 So, I recommend you learn these things, 
-1. PHP (for server side)
-2. JavaScript (for client side)
-3. Java
+  1. PHP (for server side)
+  2. JavaScript (for client side)
+  3. Java
 
 Java is actually very comprehensive unlike PHP or JavaScript, it
 can even be used for a complete network programming. You may
@@ -168,6 +168,3 @@ Check out my PureBasic projects: <https://github.com/xdvrx1/PureBasic>
 For system programming, of course, still nothing can beat
 the C language.
 Check out my C language tutorial: <https://github.com/xdvrx1/C-Language-Tutorial>
-
-
-
