@@ -141,10 +141,12 @@ better than the other. But, we just want to mention this,
 at least you have an idea.
 Nowadays, the demand is actually high for web development, either
 front-end, back-end of full-stack.
-So, I recommend you learn these things, 
-  1. PHP (for server side)
-  2. JavaScript (for client side)
-  3. Java
+So, I recommend you learn these things,
+
+### 
+1. PHP (for server side)
+2. JavaScript (for client side)
+3. Java
 
 Java is actually very comprehensive unlike PHP or JavaScript, it
 can even be used for a complete network programming. You may
