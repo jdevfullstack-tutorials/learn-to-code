@@ -69,7 +69,7 @@ That's the most important one.
 
 But it was a rough start. I could not even understand the 
 things in the 
-[PureBasic tutorial](https://github.com/xdvrx1/purebasic-a-beginners-guide)!
+[PureBasic tutorial](https://github.com/jdevstatic/purebasic-a-beginners-guide)!
 Even if I already had some knowledge about formulas in MS Excel, that was really
 tough! As if you read things without comprehension! Imagine the 
 frustration!
@@ -82,7 +82,7 @@ focus and explore everything. And that was pretty much it.
 
 Also, I recommend understanding these things:  
 
-<https://github.com/xdvrx1/prerequisites-of-computer-programming>
+<https://github.com/jdevstatic/prerequisites-of-computer-programming>
 
 these topics will further solidify your understanding about
 computer and software development.
@@ -152,7 +152,7 @@ So, I recommend you learn these things,
 
 Java is actually very comprehensive unlike PHP or JavaScript, it
 can even be used for a complete network programming. You may
-want to check out my Java projects also: <https://github.com/xdvrx1/java>
+want to check out my Java projects also: <https://github.com/jdevstatic/java>
 
 Now, after learning these core languages, your company will always
 ask whether you can use a framework. Frameworks will enable you to
@@ -167,8 +167,8 @@ Framework.
 
 For a native app which does not require much web connection,
 I highly recommend PureBasic. It's very simple and basic.
-Check out my PureBasic projects: <https://github.com/xdvrx1/PureBasic>
+Check out my PureBasic projects: <https://github.com/jdevstatic/PureBasic>
 
 For system programming, of course, still nothing can beat
 the C language.
-Check out my C language tutorial: <https://github.com/xdvrx1/C-Language-Tutorial>
+Check out my C language tutorial: <https://github.com/jdevstatic/C-Language-Tutorial>
