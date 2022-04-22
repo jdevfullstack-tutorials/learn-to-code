@@ -132,7 +132,7 @@ Then, we could simply stay this way, yet we wanted more. Nowadays, creating web 
 even dynamic ones were simplified by several frameworks and 
 ready-made projects that sometimes
 a programmer does not even need to write a single line of code!
-Software development is becoming more and more automatic!
+Software development is becoming more and more automated!
 
 But, in reality, the current trend is towards machine learning, where a certain program
 learns by itself, without directly coding it to behave that way. This will have
