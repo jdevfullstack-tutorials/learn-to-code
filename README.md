@@ -61,8 +61,8 @@ from scratch, it's teaching yourself how to learn.
 
 In the case of computer programming, I started learning
 PureBasic. Prior to this, I successfully created an MS Excel program, a flat
-file database. It was really a good project that no one attempted or even
-realized to solve a particular problem.
+file database. It was really a good project to solve a particular problem that no one attempted or even
+realized.
 
 If you are really determined to learn new things, then you will definitely learn that.
 That's the most important one.
